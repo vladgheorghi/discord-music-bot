@@ -11,4 +11,4 @@ Commands:
 
 !scram - bot leaves the voice channel
 
-!join - bot joinds the voice channel
+!join - bot joins the voice channel
