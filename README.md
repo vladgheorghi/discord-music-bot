@@ -7,7 +7,7 @@ Commands:
 
 !list - returns a numbered tracklist with all mp3's found in a specific music folder
 
-!play <number> - plays the track with the specified number in the list
+!play [number] - plays the track with the specified number in the list
 
 !scram - bot leaves the voice channel
 
